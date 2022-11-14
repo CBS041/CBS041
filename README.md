@@ -14,7 +14,6 @@
 <p align="center">
 <img src="/assets/javascript.svg" padding="1px" alt="javascript" width="120" height="25"/>
 <img src="/assets/typescript.svg" alt="typescript" padding="1px" width="120" height="25"/>
-<img src="/assets/nextjs.svg" alt="NextJS" padding="1px" width="120" height="25" />
 <img src="/assets/reactjs.svg" alt="React" padding="1px" width="120" height="25" />
 <img src="/assets/nodejs.svg" alt="NodeJS" padding="1px" width="120" height="25"/>
 <img src="/assets/html5.svg" alt="HTML5" padding="1px" width="120" height="25"/>
