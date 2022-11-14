@@ -12,13 +12,13 @@
 ## Languages 🔨
 
 <p align="center">
-<img src="/assets/javascript.svg" padding="5px" alt="javascript" width="130" height="30"/>
-<img src="/assets/typescript.svg" alt="typescript" padding="5px" width="130" height="30"/>
-<img src="/assets/nextjs.svg" alt="NextJS" padding="5px" width="130" height="30" />
-<img src="/assets/reactjs.svg" alt="React" padding="5px" width="130" height="30" />
-<img src="/assets/nodejs.svg" alt="NodeJS" padding="5px" width="130" height="30"/>
-<img src="/assets/html5.svg" alt="HTML5" padding="5px" width="130" height="30"/>
-<img src="/assets/css3.svg" alt="CSS3" padding="5px" width="130" height="30"/>
+<img src="/assets/javascript.svg" padding="3px" alt="javascript" width="130" height="30"/>
+<img src="/assets/typescript.svg" alt="typescript" padding="3px" width="130" height="30"/>
+<img src="/assets/nextjs.svg" alt="NextJS" padding="3px" width="130" height="30" />
+<img src="/assets/reactjs.svg" alt="React" padding="3px" width="130" height="30" />
+<img src="/assets/nodejs.svg" alt="NodeJS" padding="3px" width="130" height="30"/>
+<img src="/assets/html5.svg" alt="HTML5" padding="3px" width="130" height="30"/>
+<img src="/assets/css3.svg" alt="CSS3" padding="3px" width="130" height="30"/>
 </p>
 <br />
 <p align="center">
