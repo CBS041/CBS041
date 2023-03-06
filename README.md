@@ -23,6 +23,6 @@
 </p>
 <br />
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SCSS041&show_icons=true&theme=radical" width="400">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CBS041&show_icons=true&theme=transparent" width="400">
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b9aff&height=120&section=footer"/>
