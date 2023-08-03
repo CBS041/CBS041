@@ -7,8 +7,8 @@
 <br />
 
 <p align="center">
- <img src="https://lanyard-profile-readme.vercel.app/api/393490411932483592?animated=true&hideDiscrim=true&bg=b3c3ff&theme=light&borderRadius=20px&idleMessage=Doing%20nothing..." padding="10px" height="150" />
- <img src="https://discordav.deno.dev/393490411932483592" width="150" padding="10px" />
+ <img src="https://lanyard-profile-readme.vercel.app/api/393490411932483592?animated=true&hideDiscrim=true&bg=b3c3ff&theme=light&borderRadius=20px&idleMessage=Fazendo%20nada..." padding="10px" height="150" />
+ <img src="https://api.lanyard.rest/393490411932483592.gif" width="150" padding="10px" />
 </p>
 
 ## Languages 🔨
