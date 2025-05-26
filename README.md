@@ -1,28 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b9aff&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=036cb4&height=120&section=header" />
 
 # Cassiano Santos
 
-> *Writing code daily in search of learning as much as possible. Always looking to learn new frameworks and tools that help to develop projects with more quality and performance.*
+🎓 Estudante de **Engenharia de Software**  
+🧩 Explorando conceitos de programação, arquitetura de sistemas e desenvolvimento web moderno  
+🚀 Entusiasta da tecnologia, sempre buscando aprender e construir soluções úteis
 
-<br />
+---
 
-<p align="center">
- <img src="https://lanyard-profile-readme.vercel.app/api/393490411932483592?animated=true&hideDiscrim=true&bg=b3c3ff&theme=light&borderRadius=20px&idleMessage=Fazendo%20nada..." padding="10px" height="150" />
- <img src="https://api.lanyard.rest/393490411932483592.gif" width="150" padding="10px" />
-</p>
+### 🧠 Sobre mim
 
-## Languages 🔨
+Sou estudante de Engenharia de Software, com interesse em resolver problemas reais por meio da tecnologia.
 
-<p align="center">
-<img src="/assets/javascript.svg" padding="0.5rem" alt="javascript" width="110" height="25"/>
-<img src="/assets/typescript.svg" alt="typescript" padding="0.5rem" width="110" height="25"/>
-  <img src="/assets/reactjs.svg" alt="React" padding="0.5rem" width="110" height="25" />
-<img src="/assets/nodejs.svg" alt="NodeJS" padding="0.5rem" width="110" height="25"/>
-  <img src="/assets/html5.svg" alt="HTML5" padding="0.5rem" width="110" height="25"/>
-<img src="/assets/css3.svg" alt="CSS3" padding="0.5rem" width="110" height="25"/>
-</p>
-<br />
-<p align="center">
+---
+
+## ⚙️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)  
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)  
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-b-santos)  
+
+---
+
+### 📈 Estatísticas
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CBS041&show_icons=true&theme=transparent" width="400">
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b9aff&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=036cb4&height=120&section=footer"/>
