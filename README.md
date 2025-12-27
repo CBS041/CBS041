@@ -28,12 +28,7 @@ Sou estudante de Engenharia de Software, com interesse em resolver problemas rea
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-b-santos)  
-
----
-
-### 📈 Estatísticas
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CBS041&show_icons=true&theme=transparent" width="400">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-b-santos)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cassiano_sntt)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=036cb4&height=120&section=footer"/>
