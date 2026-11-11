@@ -10,8 +10,14 @@
 
 ### Projetos fixados
 
-*Os primeiros repositórios fixados serão carregados na primeira execução do workflow.*
-
+<p align="center">
+<a href="https://github.com/CBS041/portfolio-cassiano"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./cards/static/repo-01.svg" /><img src="./cards/repo-01.svg" alt="portfolio-cassiano — Portfólio pessoal desenvolvido com Next.js e TypeScript, integrado à…" width="49%" /></picture></a>
+<a href="https://github.com/CBS041/spotted-external-api"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./cards/static/repo-02.svg" /><img src="./cards/repo-02.svg" alt="spotted-external-api — API REST desenvolvida com TypeScript e Express para upload de mídias…" width="49%" /></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/CBS041/parceladao-hidra"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./cards/static/repo-03.svg" /><img src="./cards/repo-03.svg" alt="parceladao-hidra — Sistema web para gerenciamento de inscrições em eventos, com landing…" width="49%" /></picture></a>
+<a href="https://github.com/CBS041/desafio-discover-rocketseat"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./cards/static/repo-04.svg" /><img src="./cards/repo-04.svg" alt="desafio-discover-rocketseat — Projeto desenvolvido durante a trilha Discover da Rocketseat, aplican…" width="49%" /></picture></a>
+</p>
 
 ### Atividade
 <div align="center">
