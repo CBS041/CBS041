@@ -1,0 +1,47 @@
+name: Atualizar perfil e repositorios fixados
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'cards/**'
+  workflow_dispatch:
+  schedule:
+    - cron: '19 9 * * *' # UTC; sincronização diária
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install font and image dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-inter fonts-dejavu-core fontconfig
+          python -m pip install -r requirements.txt
+      - name: Test renderer
+        run: python -m unittest discover -s tests -v
+      - name: Fetch pinned repositories, activity and render SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+        run: python scripts/render_profile.py --refresh
+      - name: Commit updated README, JSON, avatar and cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A README.md data/profile.json cards/
+          if [ -f assets/github-avatar.png ]; then git add assets/github-avatar.png; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore(profile): sync pinned repos and activity'
+            git push
+          fi
